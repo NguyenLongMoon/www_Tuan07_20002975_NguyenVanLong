@@ -1,3 +1,4 @@
 .sidebar .nav-item .nav-link[data-toggle=collapse].collapsed::after {
+    
     display: none;
 }
