@@ -2,7 +2,7 @@ package vn.edu.iuh.fit.www_tuan07_20002975_nguyenvanlong.backend.models;
 
 import jakarta.persistence.*;
 import lombok.*;
-import vn.edu.iuh.fit.backend.pks.CartPK;
+import vn.edu.iuh.fit.www_tuan07_20002975_nguyenvanlong.backend.pks.CartPK;
 
 @Entity
 @Table(name = "cart")

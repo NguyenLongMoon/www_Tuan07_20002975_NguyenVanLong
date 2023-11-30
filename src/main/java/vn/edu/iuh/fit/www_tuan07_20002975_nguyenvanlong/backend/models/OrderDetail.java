@@ -3,7 +3,7 @@ package vn.edu.iuh.fit.www_tuan07_20002975_nguyenvanlong.backend.models;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-import vn.edu.iuh.fit.backend.pks.OrderDetailPK;
+import vn.edu.iuh.fit.www_tuan07_20002975_nguyenvanlong.backend.pks.OrderDetailPK;
 
 @Getter
 @Setter
